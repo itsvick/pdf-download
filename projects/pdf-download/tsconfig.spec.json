@@ -6,9 +6,8 @@
       "jasmine",
       "node"
     ],
-    "skipLibCheck": true,
-    "module": "ESNext"
-  },
+    "skipLibCheck": true
+},
   "files": [
     "src/test.ts"
   ],
